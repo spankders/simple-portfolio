@@ -1,3 +1,5 @@
+<center><img src="http://i63.tinypic.com/35he1vr.jpg" border="0"></center><br><br>
+
 # Simple Portfolio
 Simple Portfolio you can use for your page.
 
