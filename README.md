@@ -4,7 +4,7 @@
 Simple Portfolio you can use for your page.
 
 # Demo
-Have not had time to find a hosting site to store <b>DEMO</b>.
+Have not had time to find a hosting site to store <b>DEMO</b>. LOL!
 
 # Author
 Abay<br>
