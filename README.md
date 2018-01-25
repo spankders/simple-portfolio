@@ -4,7 +4,7 @@
 Simple Portfolio you can use for your page.
 
 # Demo
-You can see Demo page of this repo <a href='https://abaykan.github.io/simple-portfolio/'>Here</a>.
+You can see Demo page of this repo <a href='https://code.abaykan.com/simple-portfolio/'>Here</a>.
 
 # Author
 Abay<br>
